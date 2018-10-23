@@ -9,7 +9,7 @@ package com.entry;
  */
 public class Apple {
 
-    static String name = "AppleIdea===";
+    static String name = "AppleIdea";
 
 
     public static String getName() {
